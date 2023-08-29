@@ -1,0 +1,12 @@
+logs/
+node_modules/
+package-lock.json
+dist/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+.tsbuildinfo
+.tsbuildinfo.*
+config/apolloConfig.json
